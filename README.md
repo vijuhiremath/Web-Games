@@ -11,9 +11,9 @@ Architected so that it uses:
 
 This combination allows
 
-a) Separation of concerns (M/V/C)
-b) The application can move from any page to any other page
-c) Easy to extend and expand code
-d) Self documenting code. Nothing is hidden more than a file away.
+1) Separation of concerns (M/V/C)
+2) The application can move from any page to any other page
+3) Easy to extend and expand code
+4) Self documenting code. Nothing is hidden more than a file away.
 
 New user stories written in new-user-stories.txt
