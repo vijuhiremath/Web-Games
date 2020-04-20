@@ -1,0 +1,63 @@
+General:
+    [US-1] HTML is simple
+
+Registration Page:
+    [US-2] User feedback on invalid input
+        -error messages
+        -re-fill form fields
+    [US-3] Use of checkboxes, including responds to updates
+
+Profile Page:
+    [US-4] User feedback on valid input
+        -informative messages
+    [US-5] Prefill user information
+    [US-6] User feedback on invalid input
+        -error messages
+        -re-fill all form fields
+    [US-7] HTML validation on a few >2 text fields
+
+Game stats:
+    [US-8] Display a leaderboard of top X players
+
+The peg jumping puzzle:
+    [US-9] Solvable
+        -including user feedback once the puzzle is solved
+    [US-10] Handles edge cases and invalid input
+        -error messages
+    [US-11] Simple, yet effective model code
+
+Mastermind:
+    [US-12] Simple, yet effective model code
+
+Style/Usability:
+    [US-13] Simple user interface, easy to use, conforms to web standards
+    [US-14] Great looking user interface, appropriate use of HTML elements
+
+Navigation:
+    [US-15] Navigation appears on all logged in pages
+
+DataBase:
+    [US-16] Foreign keys
+    [US-17] SQL is all used in Model
+    [US-18] Good SQL: Use of powerful SQL queries: select from where group by having etc.
+
+PHP:
+    [US-19] Great code
+        -great use of php
+        -great naming
+        -effective use of PHP tools
+        -well-documented code
+        -always validate user input
+
+Controller:
+    [US-20] Back button does not cause backend resubmissions (see page tokens)
+    [US-21] Reload button does not cause backend resubmissions (see page tokens)
+    [US-22] Great code
+        -great use of php
+        -great naming
+        -effective use of PHP tools
+        -well-documented code
+        -always validate user input
+
+Others: 2/3
+    [US-23] No Errors present (With sessions or DB Calls)
